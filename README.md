@@ -1,6 +1,6 @@
 # vulnero
 
-Vulnero is a completely free, self-hosted open-source system for managing information security vulnerabilities.
+Vulnero is a completely free, self-hosted open-source solution for managing information security vulnerabilities.
 
 ## Features
 
