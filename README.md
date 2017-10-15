@@ -6,15 +6,19 @@ Vulnero is a completely free, self-hosted open-source system for managing inform
 
 To be announced.
 
+## Usage example
+
+To be announced.
+
+## Security
+
+To be announced.
+
 ## Roadmap
 
 To be announced.
 
 ## Installation
-
-To be announced.
-
-## Usage example
 
 To be announced.
 
