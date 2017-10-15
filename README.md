@@ -16,7 +16,7 @@ See https://github.com/backsec/vulnero/wiki/Security to learn more about securit
 
 ## Roadmap
 
-See https://github.com/backsec/vulnero/wiki/Security for release schedule information and Vulnero community plans.
+See https://github.com/backsec/vulnero/wiki/Roadmap for release schedule information and Vulnero community plans.
 
 ## Installation
 
