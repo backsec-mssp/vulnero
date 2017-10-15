@@ -12,7 +12,7 @@ To be announced.
 
 ## Security
 
-To be announced.
+See https://github.com/backsec/vulnero/wiki/Security to learn more about security internals of Vulnero.
 
 ## Roadmap
 
